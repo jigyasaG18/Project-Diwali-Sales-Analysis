@@ -1,4 +1,4 @@
-**Project:** Python Diwali Sales Analysis
+**Project: Python Diwali Sales Analysis**
 
 **Description:**
 This project aims to analyze the sales data of a retail store during the Diwali festival to identify trends, patterns, and insights that can help improve sales and revenue.
